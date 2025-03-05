@@ -5,7 +5,7 @@ description = ""
 authors = [{name = "Jakub Adamczyk (j-adamczyk)", email = "jadamczy@agh.edu.pl"}]
 readme = "README.md"
 
-requires-python = ">=3.11,<3.12"
+requires-python = ">=3.11,<3.13"
 dynamic = ["dependencies"]
 
 [tool.poetry]
